@@ -1,0 +1,8 @@
+full roll	< 645248
+
+		Time		Layers	Lines	Filament needed
+15" old		16h:7m:19s	897 	409434	362981mm
+15" hollow	11h:15m:17s	897	299691	180339mm
+
+13" old		12h:33m:28s	785	331964	282225mm
+13" new		8h:54m:5s	785	266927	144481mm
